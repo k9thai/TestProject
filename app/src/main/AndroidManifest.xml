@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.lab2ex">
+    package="com.android.testproject">
 
     <application
         android:allowBackup="true"
